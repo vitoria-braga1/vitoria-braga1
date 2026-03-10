@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Vitória Braga</h1>
 
-<!--
-**vitoria-braga1/vitoria-braga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Estudante de Tecnologia e apaixonada por dados 📊
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Sobre mim
+
+- 🎓 Estudante de tecnologia  
+- 📊 Foco em análise de dados  
+- 📚 Aprendendo Python e SQL  
+- 🌎 Brasil
+
+---
+
+### 🚀 Tecnologias
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](SEU_LINK_LINKEDIN)
+<h1 align="center">Olá 👋, eu sou Vitória Braga</h1>
+
