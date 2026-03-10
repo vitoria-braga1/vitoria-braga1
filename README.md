@@ -1,17 +1,15 @@
 <h1 align="center">Olá 👋, eu sou Vitória Braga</h1>
 
 <p align="center">
-Estudante de Tecnologia e apaixonada por dados 📊
+Viciada em café e gráficos 📊☕
 </p>
 
 ---
 
 ### 👩‍💻 Sobre mim
-
-- 🎓 Estudante de tecnologia  
-- 📊 Foco em análise de dados  
-- 📚 Aprendendo Python e SQL  
-- 🌎 Brasil
+Prazer Sou a Maria Vitória Braga Mendes Oliveira, 22 anos.
+Brasileira, Moro na Girona,Espanha. 
+Sou Data Analyst 
 
 ---
 
