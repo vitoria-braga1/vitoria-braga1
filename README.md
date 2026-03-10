@@ -9,7 +9,7 @@ Viciada em café e gráficos 📊☕
 ### 👩‍💻 Sobre mim
 Prazer Sou a Maria Vitória Braga Mendes Oliveira, 22 anos.
 Brasileira, Moro na Girona,Espanha. 
-Sou Data Analyst 
+Sou Data Analyst-- Bootcamp Tripleten
 
 ---
 
@@ -29,5 +29,5 @@ Sou Data Analyst
 ### 📫 Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](SEU_LINK_LINKEDIN)
-<h1 align="center">Olá 👋, eu sou Vitória Braga</h1>
+
 
