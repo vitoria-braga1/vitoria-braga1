@@ -41,6 +41,22 @@ I'm currently looking for my first professional opportunity in Data Analytics, w
 - Jupyter Notebook
 - Visual Studio Code
 
+## 📊 Tableau Dashboards
+
+### YouTube Trending Videos — Regional & Category Analysis
+
+Interactive dashboard exploring the volume of trending videos by region, month and category.
+
+**Skills:** Tableau · Data Visualization · Exploratory Data Analysis
+
+🔗 **[View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/maria.vitoria.braga.mendes.oliveira/viz/projeto121/Painel1)**
+
+### Call Center Performance — Operator Analysis
+
+Dashboard focused on call-center operational metrics, including total calls, missed-call rate, average waiting time, outgoing calls, received vs. missed calls and operator performance.
+
+**Skills:** Tableau · KPI Analysis · Data Visualization · Business Analytics
+
 ## 📊 Featured projects
 
 | Project | Focus | Main skills |
